@@ -1,0 +1,7 @@
+boto3
+pandas
+sqlalchemy
+psycopg2-binary
+pytest
+python-dotenv
+pyspark==3.4.1
